@@ -26,8 +26,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laasya-07&show_icons=true&theme=radical" alt="Laasya's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laasya-07&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laasyarao&show_icons=true&theme=radical" alt="Laasya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laasyarao&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
