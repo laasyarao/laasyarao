@@ -2,7 +2,7 @@
 
 🔭 I'm a results-driven Software Engineer at Salesforce with 2+ years of experience in building reliable backend services and large-scale systems.
 
-💡 My expertise spans Java, JavaScript, React, Microservices, Kafka, Spring Boot, and relational databases like MySQL.  
+💡 My expertise includes Java, JavaScript, React, Microservices, Kafka, Spring Boot, and relational databases like MySQL.  
 
 📘 I actively share my learnings in Data Structures and System Design on this GitHub.
 
